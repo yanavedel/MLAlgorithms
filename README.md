@@ -54,6 +54,7 @@ Berkeley, CA 94720-1770</li>
 <li>CS 229, Autumn 2009
 The Simplified SMO Algorithm - the algorithm for providing the conditional optimization in SVM</li>
 <li>Bishop's Pattern Recognition and Machine Learning - Chapter 6(examples of kernels)</li>
+<li>http://web.cs.iastate.edu/~honavar/smo-svm.pdf - SMO algorithm</li>
 </ul>
 </li>
 <li>
